@@ -1,0 +1,56 @@
+[
+  {
+    "name": "船舶电子审图系统",
+    "description": "船舶设计图纸电子审查和管理系统",
+    "icon": "images/ship.jpg",
+    "url": "/ship/"
+  },
+  {
+    "name": "phpMyAdmin",
+    "description": "基于 Web 的 MySQL 数据库管理工具",
+    "icon": "images/phpmyadmin.png",
+    "url": "/phpmyadmin/"
+  },
+  {
+    "name": "RedisInsight",
+    "description": "Redis 可视化管理工具",
+    "icon": "images/redis.png",
+    "url": "/redisinsight/"
+  },
+  {
+    "name": "Kafka UI",
+    "description": "Apache Kafka 集群管理和监控界面",
+    "icon": "images/kafka.svg",
+    "url": "/kafka-ui/"
+  },
+  {
+    "name": "ETCD Keeper",
+    "description": "轻量级 etcd Web 客户端，支持 etcd 2.x 和 3.x 版本",
+    "icon": "images/etcdkeeper.png",
+    "url": "/etcdkeeper/etcdkeeper/"
+  },
+  {
+    "name": "Kibana",
+    "description": "Elasticsearch 数据可视化和分析平台",
+    "icon": "images/kibana.png",
+    "url": "/kibana/"
+  },
+  {
+    "name": "Grafana",
+    "description": "开源的可视化和监控分析平台",
+    "icon": "images/grafana.png",
+    "url": "/grafana/"
+  },
+  {
+    "name": "Prometheus",
+    "description": "开源监控和告警系统",
+    "icon": "images/prometheus.png",
+    "url": "/prometheus/graph"
+  },
+  {
+    "name": "Dinky",
+    "description": "实时计算平台，支持 Flink 任务开发和管理",
+    "icon": "images/dinky.svg",
+    "url": "/dinky/"
+  }
+]
